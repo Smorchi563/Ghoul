@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:qwe111"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Background="AntiqueWhite">
+        <Button Width="100" Height="100" Background="Orange" FontSize="15"  Content="здравствуйте" Click="Button_Click"></Button>
     </Grid>
 </Window>
